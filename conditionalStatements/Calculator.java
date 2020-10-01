@@ -10,9 +10,12 @@ public class Calculator {
 		
 		System.out.println("Enter first number");
 		
+		
 		int a = sc.nextInt();
 		
 		System.out.println("Enter second number");
+		
+		
 		
 		int b = sc.nextInt();
 		
